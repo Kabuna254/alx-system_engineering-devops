@@ -33,4 +33,5 @@ The number will be stored in the environment variable NUM.
 * The number in base 10 is stored in the environment variable DECIMAL
 * The script should display the number in base 16, followed by a new line
 101-rot13 encodes and decodes text using the rot13 encryption. Assume ASCII.
+102-odd prints every other line from the input, starting with the first line.
 
